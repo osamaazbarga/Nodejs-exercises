@@ -1,1 +1,3 @@
-console.log("welcome")
+
+
+const name =require('./import-export/app.js')
