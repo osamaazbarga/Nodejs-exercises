@@ -11,19 +11,20 @@ yargs.command({
     command:'add',
     describe:'sum of 2 numbers',
     builder:{
-        title:{
+        x:{
             describe:"note title add",
             demandOption:true,
             type:'string'
         },
-        body:{
+        y:{
             describe:"note body add",
             demandOption:true,
             type:'string'
         }
     },
     handler:function(){
-        console.log(argv._[1]+argv._[2]);
+        console.log(argv.x+argv.y);
+        //node calc add --x=5 --y=8
     }
 })
 

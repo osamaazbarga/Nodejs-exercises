@@ -1,0 +1,12 @@
+{"users":[
+    {"id":0,"name":"osama","capsule":1},
+    {"id":1,"name":"talya","capsule":1},
+    {"id":2,"name":"gilad","capsule":1},
+    {"id":3,"name":"michael","capsule":1},
+    {"id":4,"name":"guy","capsule":1},
+    {"id":5,"name":"shir","capsule":1},
+    {"id":6,"name":"or","capsule":2},
+    {"id":7,"name":"shlomi","capsule":2},
+    {"id":8,"name":"shlomi","capsule":2}
+]
+}

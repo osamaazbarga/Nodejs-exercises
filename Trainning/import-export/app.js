@@ -16,11 +16,11 @@ const notes =require('./calc')
 
 // console.log(add(4,-2));
 
-const notes =require('./notes')
+// const notes =require('./notes')
 
-const msg=getnotes();
+// const msg=notes.getnotes();
 
-console.log(msg);
+// console.log(msg);
 
 console.log(validator.isURL('hotmail.com'));
 
